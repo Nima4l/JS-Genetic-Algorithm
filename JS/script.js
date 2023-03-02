@@ -28,3 +28,4 @@ for (let i = 0; i < Target.length; i++) {
   console.log(fitness);
   console.log(generate);
 }
+//Thanks
